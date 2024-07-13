@@ -1,7 +1,7 @@
 {
-  "name": "apimernprojects",
+  "name": "openaiapi",
   "version": "1.0.0",
-  "description": "Projects on API MERN Stack",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.2"
+    "openai": "^4.52.7"
   }
 }
